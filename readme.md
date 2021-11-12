@@ -1,6 +1,5 @@
 # Calculator Project Setup
-[![Build Status](https://app.travis-ci.com/kaw393939/calc2.svg?branch=main)](https://app.travis-ci.com/kaw393939/calc2)
-
+[![Build Status](https://app.travis-ci.com/np649/calc2.svg?branch=main)](https://app.travis-ci.com/np649/calc2.svg?branch=main)
 To run tests, Lint, and Coverage report use this command:
 
 pytest  --pylint --cov
